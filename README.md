@@ -1,2 +1,2 @@
 # competative-coding
-My solutions for competative programming quesions
+My solutions for competative programming questions
