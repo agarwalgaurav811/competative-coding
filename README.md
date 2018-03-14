@@ -12,3 +12,6 @@ https://www.youtube.com/watch?v=vFZTxvUoZSU
 
 ## insertion sort
 https://www.youtube.com/watch?v=i-SKeOcBwko
+
+## Good problems:
+https://www.interviewbit.com/problems/gcdcmpl/
