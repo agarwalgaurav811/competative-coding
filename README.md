@@ -9,3 +9,6 @@ https://www.youtube.com/watch?v=4vNlt_EDw1Q&feature=player_embedded
 
 ## pointers
 https://www.youtube.com/watch?v=vFZTxvUoZSU
+
+## insertion sort
+https://www.youtube.com/watch?v=i-SKeOcBwko
