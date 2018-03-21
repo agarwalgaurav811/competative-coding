@@ -15,3 +15,6 @@ https://www.youtube.com/watch?v=i-SKeOcBwko
 
 ## Good problems:
 https://www.interviewbit.com/problems/gcdcmpl/
+
+## Errors while implementing binary search
+https://www.youtube.com/watch?v=OAZc1zwjERU
