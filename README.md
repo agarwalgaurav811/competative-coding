@@ -22,3 +22,6 @@ https://www.youtube.com/watch?v=OAZc1zwjERU
 ## Memory allocation loopholes
 https://www.interviewbit.com/courses/programming/topics/linked-lists/
 https://www.youtube.com/watch?v=COZK7NATh4k&index=28&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P 
+
+## binary tree node delete
+https://www.youtube.com/watch?v=gcULXE7ViZw
